@@ -7,6 +7,6 @@
     </head>
     <body>
         <h3>${param.date}</h3>
-        <h1>Bienvenido/a ${param.name}!</h1>
+        <h1>Bienvenido/a ${param.name}! <span style='font-size:30px;'>&#128075;</span></h1>
     </body>
 </html>

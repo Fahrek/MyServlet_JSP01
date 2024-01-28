@@ -15,7 +15,7 @@ public class MyServlet extends HttpServlet {
                          HttpServletResponse response) throws IOException, ServletException {
 
         // Redirige hacia la página de formulario.jsp
-        request.getRequestDispatcher("/formulario.jsp").forward(request, response);
+        request.getRequestDispatcher("/WEB-INF/formulario.jsp").forward(request, response);
 
     }
 

@@ -15,7 +15,7 @@ public class MyServlet2 extends HttpServlet {
                          HttpServletResponse response) throws IOException, ServletException {
 
         // Redirige hacia la página de bienvenida.jsp
-        request.getRequestDispatcher("/bienvenida.jsp").forward(request, response);
+        request.getRequestDispatcher("/WEB-INF/bienvenida.jsp").forward(request, response);
 
     }
 
