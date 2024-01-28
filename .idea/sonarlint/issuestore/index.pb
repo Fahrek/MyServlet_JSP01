@@ -255,3 +255,11 @@ w
 G.idea/sonarlint/issuestore/7/2/72fe4acb5c113fac9f2f8d9a8ffd6326d66fae41,f\c\fcd985df88fa66b8451bc1308481e1e8f3d18528
 w
 G.idea/sonarlint/issuestore/7/4/74a0e90fa145d4cf4f2495c6a426d2628d6f6ea6,e\7\e7b8576d64605d9fd20eaca5602f7be0d68316d7
+V
+&src/main/webapp/WEB-INF/formulario.jsp,8\1\81a1fa9b7f0ca76c90750f52da43195a85b9595e
+V
+&src/main/webapp/WEB-INF/bienvenida.jsp,a\7\a7aaae21fd52859196121fb66d5d4270c43b2484
+Å
+Q.idea/sonarlint/securityhotspotstore/8/1/81a1fa9b7f0ca76c90750f52da43195a85b9595e,c\b\cb7429a8af6a8a68985c1d971c0b044621755970
+Å
+Q.idea/sonarlint/securityhotspotstore/a/7/a7aaae21fd52859196121fb66d5d4270c43b2484,e\2\e2f71464f0c4b1097332b2849e5567be32ee3360
